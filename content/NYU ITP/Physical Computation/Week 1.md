@@ -1,4 +1,0 @@
-- [ ] Pre-reading
-- [ ] Get kit
-- [ ] Post-Reading
-- [ ] Do your labs
