@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Ryan's Failures and Occasional Successes 
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Follow along to learn the wrong way to blog and the right way to fail
