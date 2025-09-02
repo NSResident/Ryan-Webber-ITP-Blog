@@ -1,0 +1,3 @@
+- [ ] Pre-reading
+- [ ] Get kit
+- [ ] Post-Reading
