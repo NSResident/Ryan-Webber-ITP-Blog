@@ -1,9 +1,10 @@
 Reading:
 [Electricity](https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/) 
 
-![[Electricity P1.excalidraw]]
+![[Pasted image 20250903131616.png]]
 
-![[Week 1 2025-09-02 16.45.25.excalidraw]]
+
+![[Pasted image 20250903131639.png]]
 
 
 **The amount of current going into any point in a circuit is the same as the amount coming out of that point.**
@@ -19,6 +20,7 @@ Negative barrel - Positive End
 ![Symbol for a center-positive power supply.](https://itp.nyu.edu/physcomp/wp-content/uploads/power_supply_polarity_011.jpg)
 
 Positive Barrel - Negative End
+
 ![Symbol for a center-positive power supply.](https://itp.nyu.edu/physcomp/wp-content/uploads/power_supply_polarity_021.jpg)
 
 
