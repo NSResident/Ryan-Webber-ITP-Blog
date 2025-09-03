@@ -11,7 +11,7 @@ private/
 replit.nix
 
 # Ignore Excalidraw files
-content/Excalidraw/*
+content/Excalidraw*/*
 
 # Ignore Resources files
 content/*/Resources.md
@@ -19,6 +19,8 @@ content/*/Resources.md
 # Ignore ToDo files
 content/*ToDo.md
 
+# Old content
 content/archive/*
 
+#Class notes
 content/*/*notes.md
