@@ -9,3 +9,12 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+
+# Ignore Excalidraw files
+content/Excalidraw/*
+
+# Ignore Resources files
+content/*Resources*
+
+# Ignore ToDo files
+content/*ToDo.md
