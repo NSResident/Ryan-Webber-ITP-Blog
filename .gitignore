@@ -24,3 +24,6 @@ content/archive/*
 
 #Class notes
 content/*/*notes.md
+
+# Media files
+content/media/*
