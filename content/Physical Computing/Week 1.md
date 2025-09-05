@@ -21,7 +21,19 @@ Afterwards I added a regulator and continued to add more wires to test my unders
 ![](https://pcomppull.b-cdn.net/IMG_4558.jpeg)
 
 
+Using the multimeter, I wanted to test the voltage before and after the regulator to make sure everything was working:
+
+![](https://PCompPull.b-cdn.net/IMG_4563.jpeg)
+
+![](https://pcomppull.b-cdn.net/IMG_4560.jpeg)
 
 
 
+Afterwards I moved to switches, which I got working pretty quickly:
 
+![](https://PCompPull.b-cdn.net/play_720p.mp4)
+
+![](https://iframe.mediadelivery.net/play/490829/a6432f5e-b4a6-470a-ae1a-57d7187f4dcf)
+
+
+![](https://vz-a91ec3f0-394.b-cdn.net/a6432f5e-b4a6-470a-ae1a-57d7187f4dcf/playlist.m3u8)
