@@ -33,15 +33,7 @@ Afterwards I moved to switches, which I got working pretty quickly:
 
 ![](https://PCompPull.b-cdn.net/play_720p.mp4)
 
-IFRAME LINK
-![](https://iframe.mediadelivery.net/play/490829/a6432f5e-b4a6-470a-ae1a-57d7187f4dcf)
-
-VZ LINK
-![](https://vz-a91ec3f0-394.b-cdn.net/a6432f5e-b4a6-470a-ae1a-57d7187f4dcf/playlist.m3u8)
 
 DIV EMBED
 ![](<div style="position:relative;padding-top:56.25%;"><iframe src="https://iframe.mediadelivery.net/embed/490829/a6432f5e-b4a6-470a-ae1a-57d7187f4dcf?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe></div>)
-
-IFRAME EMBED
-![](<iframe src="https://iframe.mediadelivery.net/embed/490829/a6432f5e-b4a6-470a-ae1a-57d7187f4dcf?autoplay=false&loop=false&muted=false&preload=true&responsive=true" loading="lazy" style="border:0;position:absolute;top:0;height:100%;width:100%;" allow="accelerometer;gyroscope;autoplay;encrypted-media;picture-in-picture;" allowfullscreen="true"></iframe>)
 
