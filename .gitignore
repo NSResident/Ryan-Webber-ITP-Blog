@@ -20,10 +20,7 @@ content/*/Resources.md
 content/*ToDo.md
 
 # Old content
-content/archive/*
+content/*archive/*
 
 #Class notes
 content/*/*notes.md
-
-# Media files
-content/media/*
