@@ -1,6 +1,7 @@
 ### Reading:
 [Electricity](https://itp.nyu.edu/physcomp/lessons/electronics/electricity-the-basics/) 
-[Videos -  Electronic Tools](https://itp.nyu.edu/physcomp/videos/videos-tools/#Electronic_tools
+
+[Videos -  Electronic Tools](https://itp.nyu.edu/physcomp/videos/videos-tools/#Electronic_tools)
 [Lab: Electronics](https://itp.nyu.edu/physcomp/labs/electronics/)
 [Lab: Components](https://itp.nyu.edu/physcomp/labs/components/)
 [Lab: Breadboard](https://itp.nyu.edu/physcomp/labs/breadboard/)
