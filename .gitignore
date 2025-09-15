@@ -13,6 +13,8 @@ replit.nix
 # Ignore Excalidraw files
 content/Excalidraw*/*
 
+content/*/*IGNORE.md
+
 # Ignore Resources files
 content/*/Resources.md
 
