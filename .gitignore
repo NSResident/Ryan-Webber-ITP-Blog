@@ -11,7 +11,10 @@ private/
 replit.nix
 
 # Ignore Excalidraw files
-content/Excalidraw*/*
+content/Excalidraw/*
+
+#Ignore writeups
+content/Writeups/*
 
 content/*/*IGNORE.md
 
