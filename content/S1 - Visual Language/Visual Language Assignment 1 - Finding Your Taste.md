@@ -1,0 +1,18 @@
+
+
+
+Read these two articles: FastCo Design Good Taste is a Myth and Taste Is the New Intelligence and write a 200-300 words describing your taste/visual preferences and how your experience has informed them (or not).
+
+
+
+Tastes: some parts digitally native, sample rich, deviates from expectation, expansive, interactive, heterogenous
+
+Visual: surrealist, glitchy, heavy negative space, plays with scale and proportions 
+
+### What I like
+
+A sentence that comes to mind when thinking of my tastes is "simultaneously building on top of others while building across from reality". 
+
+Having spent basically all my life in New York, I've been exposed to peaks of various music, fashion, and art trends and am continually inspired by others. A technique that really encapsulates this is sampling. Sampling of any kind, whether using an old jazz song from the 1980s or a video from a protest in a music video, creates a 3-way connection between the current work, the observer, and another artist's past work that enriches the experience and nudges your curiosity to dive deeper, a feeling I actively seek out. I've always been drawn to things that pull me out of reality and into another realm of thought, understanding, and perception. 
+
+As such, I tend to lean towards surrealist art for its depiction of bent physical rules, glitch effects in digital art, since they distort the expectations of time, scale, and color, and genres of music and film that rely heavily (and transparently) on history, past cultural references, and cyclic time. A visual style I am recently exploring is the use of negative space as a canvas for imagination and a way to play with the scale and proportions of subjects. Examples are photographs where the sky and space minimize a skyline and songs that create clever pockets of as moments of reflection. I suspect that in my early childhood, my fondest memories were living by the sea in Jamaica and seeing how space enlarges your view. When I came to New York, I came with that feeling and have always enjoyed the feeling of rooms with empty centers, unobstructed views between buildings, and the skyscapes. 

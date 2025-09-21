@@ -15,11 +15,11 @@ Hm.
 The three themes have definitely been **interaction**, **story**, and **play**, but how do they all relate?
 
 - Has my definition of interaction changed? [[Week 2 - Reading Research]]
-- What is my story? 
-- What is my aesthetic? [[Taste - Visual Language]]
-- What do I want my work to be about?
-- Am I enjoying myself? 
-- What message do I want to convey?
+- What is my story? -
+- What is my aesthetic? [[Taste]]
+- What do I want my work to be about? -
+- Am I enjoying myself? -
+- What message do I want to convey? -
 - Am I doing enough? Too much? [[Week 1 ToDo]] [[Week 2 ToDo]]
 
 ### Have my Goals Changed?
