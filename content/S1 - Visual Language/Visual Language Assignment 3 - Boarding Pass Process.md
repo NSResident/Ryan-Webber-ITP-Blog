@@ -35,19 +35,17 @@ Through this assignment, I became really familiar with Illustrator and it's surf
 
 ### Helpful Tips:
 
-cmd H - rotate board
-cmd 7 clip Mask
-m - rectangle
-v - select 
-a - direct select 
-Select object -> transparency -> multiple - make object blend with background 
-cmd o - select art board
-shift h - rotate screen
+- cmd H - rotate board
+- cmd 7 clip Mask
+- m - rectangle
+- v - select 
+- a - direct select 
+- Select object → transparency → multiple - make object blend with background 
+- cmd o - select art board
+- shift h - rotate screen
 ### Sources:
 
-Background:
-https://stock.adobe.com/images/seamless-pattern-with-clouds/86586963
-Delta PNG:
-https://www.pngfind.com/mpng/bTTmxo_delta-air-lines-have-gone-through-more-than/
-Adobe Illustrator Documentation
+- Background: https://stock.adobe.com/images/seamless-pattern-with-clouds/86586963
+- Delta PNG: https://www.pngfind.com/mpng/bTTmxo_delta-air-lines-have-gone-through-more-than/
+- Adobe Illustrator Documentation
 
