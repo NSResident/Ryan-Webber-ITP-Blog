@@ -4,6 +4,8 @@
 * Transistors open up a whole new world of using a single controller and board to swap between different power supplies
 ### Outstanding questions
 * Why do we need a capacitor for the servo motor?
+* What is the reason the transistor makes the speaker louder in this example? I think it's because the speaker can get a full 3.3V from board as opposed to < 3.3.V when powered by the Arduino's output but not sure
+![](https://PCompPull.b-cdn.net/Lab%203/Pasted%20image%2020250922201459.png)
  
 ### Ideas to Explore
 * Mini DJing with two potentiometers and two pre-made songs
@@ -130,14 +132,14 @@ Before doing the next lab, I watched the video on transistors. From my understan
 ![](https://PCompPull.b-cdn.net/Lab%203/Pasted%20image%2020250916163448.png)
 
 
-Small voltage goes through the base a switch, which passes the voltage from the collector to the emitter. Admittedly it took me a long time to understand why using a transistor would increase the volume of the speaker. Reading the labs and watching videos didn't help me at all, and it wasn't until I really dug into the details with James that it started to make sense. 
+Current goes through the base a switch, which passes the voltage from the collector to the emitter. Admittedly it took me a long time to understand why using a transistor would increase the volume of the speaker. Reading the labs and watching videos didn't help me at all, and it wasn't until I really dug into the details with James that it started to make sense. 
 
-Sound, as we hear it, is really a series of up and downs of a wave at certain frequencies. This analog signal isn't something naturally produced by an arduino, but using digital manipulation of releasing and holding the voltage, this analog signal behavior is simulated. When we connect the speaker directly to a digital output pin (figure 1 below), we get a simulated analog signal at a lower amplitude (not the full 3.3V). The speaker transforms this signal into sound, using the wave's frequency for the note and the amplitude for the volume.
+Sound, as we hear it, is really a series of up and downs of a wave at certain frequencies. This analog signal isn't something naturally produced by an arduino, but using digital manipulation of releasing and holding the voltage, this analog signal behavior is simulated. When we connect the speaker directly to a digital output pin (figure 1 below), we get a simulated analog signal.  The speaker transforms this signal into sound, using the wave's frequency for the note and the amplitude for the volume.
 
 ![](https://PCompPull.b-cdn.net/Lab%203/IMG_4890.jpeg)
 
 
-If we want to the amplitude to be higher (figure 2 above), we can use the power from the board (a consistent 3.3V) and instead of using the arduino's simulated analog signal to control the amplitude of the sound, we can use it to control when this 3.3V is on and off. It's not the transistor that makes the speaker louder, **its the higher voltage of the board.** The transistor allows the arduino to modulate the current, producing a wave that the speaker can transform into a sound.
+If we want to the amplitude to be higher (figure 2 above), we can use the power from the board (a consistent 3.3V) and instead of using the arduino's simulated analog signal to control the amplitude of the sound, we can use it to control when this 3.3V is on and off. It's not the transistor that makes the speaker louder, **its the higher voltage/current of directly connecting to the board.** The transistor allows the arduino to modulate the current, producing a wave that the speaker can transform into a sound.
 
 ![](https://PCompPull.b-cdn.net/Lab%203/IMG_4891.jpeg)
 
