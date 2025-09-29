@@ -5,6 +5,7 @@
 ### Outstanding questions
 * Why do we need a capacitor for the servo motor?
 * What is the reason the transistor makes the speaker louder in this example? I think it's because the speaker can get a full 3.3V from board as opposed to < 3.3.V when powered by the Arduino's output but not sure
+	* **This is because the amperage from a data pin (~20mA) is significantly less than the vOut pin (~500mA), so the wattage  (V * A) is much lower. The speaker depends on wattage so the more wattage, the louder it is.**
 ![](https://PCompPull.b-cdn.net/Lab%203/Pasted%20image%2020250922201459.png)
  
 ### Ideas to Explore
