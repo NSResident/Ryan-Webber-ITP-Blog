@@ -1,0 +1,3 @@
+
+
+A few ideas I had were a bar graph where the x-axis is each color, and the y-axis would represent how many markers were found. The average brightness of the colors' markers would determine the brightness of the bar. Since the locations are also fairly close to each other, a plot graph where the x-axis is longitude and y is latitude could also work. Each plot could be colored to the marker's color. Though we haven't looked at spatial visualizations, I think a combination of a bar graph with geographical data could also work, and an example I found online is here: https://community.tableau.com/s/question/0D54T00000LOW6hSAH/can-i-draw-3d-bar-chart-on-a-map  
