@@ -7,13 +7,16 @@
 - Hypercinema - Importance of visual elements in story telling, basics of Premier Pro and After Effects
 - Applications - The balance of pain and pleasure in good games, creating an experience grounded in theory
 
-The last 2 weeks have ramped up significantly. My biggest struggle is finding the time to explore the material, especially in PCOMP and Visual Journalism. The first semester has been a whirlwind of topics and software, the most I can do is try and keep up. Especially in Visual Language and Hypercinema, I find myself sinking many hours into just understanding the applications (mostly Adobe products) and feel short on time to make creative projects. 
+For my advisor, I want to learn from my classes:
+* Make fun robots
+* Communicate through design
+* Design spaces for experience and play
+* Sound design
 
-Big themes that have emerged in the last 2 weeks are **feedback**, **intention**, and **iteration**. For many of the assignments, I feel that most of the feedback, which is less common than I thought, I receive is often not actionable. Feedback collective seems to be the most consistent place in giving and receiving constructive criticism on arbitrary work, perhaps office hours with certain professors would also work. But as a newcomer in the field of the design, I struggle to understand if my design decisions make sense. This is partly due to the program being focused on experimental and expressive work that may not adhere to a specific standard. I often feel that the curriculum is geared towards people with a foundation in design because of this lack of feedback. 
-This is where intention comes in. While I build up my knowledge on foundational design principles, my focus has to be on my intention. Who is my audience, what is the message, what am I trying to achieve? Through an understanding of questions like these, I have to clearly define the meaning and ensure that whatever work I come up with communicates that. This is done by the intentional decision of elements and their composition. This, I will try to make my focus for the next few weeks. Come up with the message, choose the elements that fit, and compose them in a way that communicates said message.
-Though these are 3 simple to understand steps, I will never get it right the first, second or maybe even 20th time. It's silly to expect that from someone experienced in art and design, let alone me who has just started. Only through many rounds of iteration will this be possible. Visual Language is definitely the class that pushes me to iterate the most so far and has gotten me used to creating freely until the right elements and their combinations reveal themselves. 
-
-I should probably apply these three lessons to Theory Club as well. WIP.
+Outside of class:
+* Teach workshops
+* Organize groups for self-improvement and teaching
+* Refine and narrow down my aesthetic
 
 ### Have my Goals Changed?
 
