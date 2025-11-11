@@ -2,16 +2,13 @@
 
 ### What have I learned so far:
 
-For my advisor, I want to learn from my classes:
-* Make fun robots
-* Communicate through design
-* Design spaces for experience and play
-* Sound design
+Reactive
+Participatory 
+Deeply Interactive
 
-Outside of class:
-* Teach workshops
-* Organize groups for self-improvement and teaching
-* Refine and narrow down my aesthetic
+Museums - casual learning as an event
+Games - learning as fundamental in the fun
+
 
 ### Have my Goals Changed?
 
